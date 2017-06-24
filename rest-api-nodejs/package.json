@@ -1,0 +1,23 @@
+{
+  "name": "express-project",
+  "version": "0.0.0",
+  "description": "Getting started with Express.js",
+  "start": "nodemon server.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Francis Sunday",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "body-parser": "^1.17.2",
+    "chai": "^4.0.1",
+    "express": "^4.15.3",
+    "gulp": "^3.9.1",
+    "mocha": "^3.4.2",
+    "mongoose": "^4.10.4"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  }
+}
